@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**giyu-cmd/giyu-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=build.%20break.%20learn.&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Retrieval+%E2%86%92+Reranking+%E2%86%92+Generation;Distributed+systems+that+fail+gracefully;Shipping+ML+beyond+the+notebook;Clean+abstractions%2C+measurable+latency" alt="typing animation"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧰 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,redis,react,ts,git,linux&theme=dark"/>
+
+</div>
+
+---
+
+### 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
+</picture>
+</div>
+
+---
+
+<details>
+<summary><b>📐 Engineering principles I follow</b></summary>
+
+- Measure before optimizing
+- Make failure modes explicit
+- Prefer boring tech, invest in observability
+- If it isn't evaluated, it isn't done
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
