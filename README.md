@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=build.%20break.%20learn.&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Retrieval+%E2%86%92+Reranking+%E2%86%92+Generation;Distributed+systems+that+fail+gracefully;Shipping+ML+beyond+the+notebook;Clean+abstractions%2C+measurable+latency" alt="typing animation"/>
+<img src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/main/assets/runner.svg" width="800" alt="runner game"/>
 
 </div>
 
