@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=build.%20break.%20learn.&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%"/>
-
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/output/github-snake.svg">
 </picture>
 </div>
 
-</div>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=build.%20break.%20learn.&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 ---
 
@@ -24,24 +23,16 @@
 
 ---
 
-### 🐍 Contribution snake
-
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/output/github-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
----
+</div>
 
-<details>
-<summary><b>📐 Engineering principles I follow</b></summary>
-
-- Measure before optimizing
-- Make failure modes explicit
-- Prefer boring tech, invest in observability
-- If it isn't evaluated, it isn't done
 
 </details>
 
