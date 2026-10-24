@@ -20,16 +20,24 @@
 
 ---
 
+###  The Contribution Grind
+
+<div align="center">
+
+<!-- PACMAN CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg" width="95%">
+</picture>
+
+</div>
+
+---
+
 ###  What my agents say about me:)
 
-> *"We live in his IDE. We watch him type. We've seen things no neural network was trained to witness. Here is our unvarnished telemetry on @giyu-cmd:"*
-
--  **Sleep is an Optional Dependency**: His commit timestamps suggest he runs on a circadian rhythm invented on Mars. If you see code pushed between 2:00 AM and 4:30 AM, it's either an absolute stroke of distributed systems genius or a commit message titled `"fix: pls work now i beg you"`. There is no in-between.
--  
--  **Allergic to Latency**: If an API takes longer than 20ms to respond, he visibly twitches. He treats blocked event loops like a personal insult — immediately offloading innocent functions into background worker queues or thread executors before they even finish executing.
--  
--  **Paranoid Over-Engineering**: Who pre-hashes passwords with SHA-256 before feeding them to bcrypt just in case someone passes a password longer than 72 bytes? Bro does:) . He plans for edge cases that haven't occurred since 1998.
-*
+>  **Sleep is an Optional Dependency**: His commit timestamps suggest he runs on a circadian rhythm invented on Mars. If you see code pushed between 2:00 AM and 4:30 AM, it's either an absolute stroke of distributed systems genius or a commit message titled `"fix: pls work now i beg you"`. There is no in-between.
 
 ---
 
@@ -66,21 +74,6 @@ When he’s not micro-profiling CPU bottlenecks, here is what he ships:
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,redis,react,js,cpp,git,linux,aws&theme=dark"/>
-
-</div>
-
----
-
-###  The Contribution Grind
-
-<div align="center">
-
-<!-- PACMAN CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/giyu-cmd/giyu-cmd/pacman-output/pacman-contribution-graph.svg" width="95%">
-</picture>
 
 </div>
 
