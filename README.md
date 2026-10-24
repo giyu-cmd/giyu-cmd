@@ -3,11 +3,6 @@
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=@giyu-cmd&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Turning%20Chaos%20into%20Clean%20Pipelines%20%7C%20AI%20%2B%20Distributed%20Systems&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
-<!-- TYPING BADGE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+agentic+multimodal+systems;Taming+heavy+GPU+loads+with+Celery+%26+Redis;Cracking+computer+vision+challenges;AI+Grand+Challenge+Winner+🏆" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- SOCIAL QUICK LINKS -->
