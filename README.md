@@ -58,6 +58,10 @@
 
 ## Latest stats
 <!-- STATS:START -->
+- Contributions (last year): **205**
+- Of which private: **0**
+- Followers: **3**
+- Last updated: 2026-11-02 18:00 UTC
 <!-- STATS:END -->
 
 <!-- FOOTER WAVE -->
