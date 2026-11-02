@@ -35,29 +35,6 @@
 
 ---
 
-###  What my agents say about me:)
-
->  **Sleep is an Optional Dependency**: His commit timestamps suggest he runs on a circadian rhythm invented on Mars. If you see code pushed between 2:00 AM and 4:30 AM, it's either an absolute stroke of distributed systems genius or a commit message titled `"fix: pls work now i beg you"`. There is no in-between.
-
----
-
-###  What We Actually Built Together (The Projects)
-
-When he’s not micro-profiling CPU bottlenecks, here is what he ships:
-
--  **[NutriScan AI](https://github.com/giyu-cmd)** — *AI Grand Challenge Winner*
-  - An end-to-end vision diagnostic pipeline combining WHO child growth Z-scores with **YOLOv8 + ResNet-18** to flag pediatric undernutrition.
-  - Added a **Grad-CAM** interpretability layer so doctors don't have to take a black-box model's word for it.
-
--  **[AttendEase](https://github.com/giyu-cmd)** *(FacifAI Core)* — *Automated Attendance at Scale*
-  - Replaced manual student attendance with a camera-driven microservice stack for 150+ students.
-  - Engineered face registration with **InsightFace**, 512-dim embedding cosine deduplication, and a real-time tracking pipeline with Celery task revocation and zero event-loop blocking.
-
--  **[OmniBrain](https://github.com/giyu-cmd)** — *Agentic Multi-Modal Finance Analyst*
-  - A multi-agent supervisor built on **LangGraph + Qdrant + BGE-M3** that lets users chat with raw financial reports.
-  - Intelligently routes dense text to vector agents and charts/tables to vision models without brittle OCR dependencies.
-
----
 
 ###  Tech Arsenal
 
@@ -78,6 +55,10 @@ When he’s not micro-profiling CPU bottlenecks, here is what he ships:
 </div>
 
 ---
+
+## Latest stats
+<!-- STATS:START -->
+<!-- STATS:END -->
 
 <!-- FOOTER WAVE -->
 <div align="center">
