@@ -60,8 +60,8 @@
 <!-- STATS:START -->
 - Contributions (last year): **207**
 - Of which private: **0**
-- Followers: **4**
-- Last updated: 2026-11-16 06:52 UTC
+- Followers: **3**
+- Last updated: 2026-11-17 08:11 UTC
 <!-- STATS:END -->
 
 <!-- FOOTER WAVE -->
